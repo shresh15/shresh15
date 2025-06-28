@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shresh15" alt="shresh15" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Web Development**
+- 🌱 I’m currently diving deep into **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
